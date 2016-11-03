@@ -36,8 +36,5 @@
   "main": "./lib/winston-sns",
   "scripts": {
     "test": "vows test/*-test.js --spec"
-  },
-  "engines": {
-    "node": "0.4.x"
   }
 }
