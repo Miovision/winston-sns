@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/jesseditson/winston-sns.git"
+    "url": "http://github.com/Miovision/winston-sns.git"
   },
   "keywords": [
     "logging",
